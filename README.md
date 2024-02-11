@@ -87,7 +87,7 @@ print("csv file sucessfully uploaded to s3!")
 We are mostly doing some exploratory data analysis using polars so we know what we are working with, and also doing some transformations so that de dashboard visualization comes out looking cleaner.
 
 ## 5. build a dashboard mockup using excalidraw.com
-![img](/Untitled-2024-01-20-2119.png)
+![img](/dashboard_mockup.png)
 
 ## 6. build dashboard using streamlit
-
+![img](/dashboard_streamlit.png)
