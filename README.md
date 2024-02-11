@@ -39,7 +39,7 @@ Fill in the access keys, region, and choose output format as json.
 
 It's gonna output this two files:
 
-![img](/Screenshot%202023-11-19%20at%201.19.42 AM.png)
+![img](/aws_credentials_ls.png)
 
 ## 2. Get kaggle dataset using the kaggle API
 ```python
@@ -85,6 +85,9 @@ print("csv file sucessfully uploaded to s3!")
 
 ## 4. Analyze and clean s3 dataset using a notebook
 We are mostly doing some exploratory data analysis using polars so we know what we are working with, and also doing some transformations so that de dashboard visualization comes out looking cleaner.
+
+## 5. Make .streamlit directory, and add secrets in .toml format
+![img](/streamlit_secrets_ls.png)
 
 ## 5. build a dashboard mockup using excalidraw.com
 ![img](/dashboard_mockup.png)
