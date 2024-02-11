@@ -2,7 +2,7 @@ s3fs==2023.10.0
 st-files-connection
 streamlit
 pandas
-iboto3
+boto3
 matplotlib
 streamlit_card
 streamlit-card
